@@ -200,7 +200,7 @@ This dashboard helps organizations:
 
 ## 👨‍💻 Author
 
-**Ananya Swankar**
+**Ananya kumari**
 
 
 ---
